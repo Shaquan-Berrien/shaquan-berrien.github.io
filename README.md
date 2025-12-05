@@ -37,7 +37,6 @@ I personally had a little trouble creating this, there was an issue with a code 
 
 And there is my beautiful picture of a puppy on the right side!
 
-# Project
 
 ## Project 2: Algorithms in Game Design
 
