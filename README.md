@@ -5,6 +5,7 @@ This is a screenshot of a duck guessing game that we worked on in class! It requ
 
 I added a yellow background and changed the text to something I though would be a bit more fitting for a game like this, and I created my own duck picture!
 
+
 ## Interactive Experience - Twine
 <img width="665" height="637" alt="story" src="https://github.com/user-attachments/assets/c8d7552f-24c3-47a7-9fd7-0fd13d033e36" />
 
@@ -15,6 +16,7 @@ I simply just created branching pathways based onmy actual thoughts in the morni
 Though I could've done a *lot* more, but it was early and I didn't feel like it.
 
 Here's the link for you to try it out yourself! [Story](https://twinery.org/2/#/stories/02050826-375c-4099-a6b8-12a98dc2cda3/play)
+
 
 ## Composition Creator (Final vrs.)
 <img width="605" height="602" alt="drops" src="https://github.com/user-attachments/assets/880b1244-7802-405f-bbca-1332ed4f9155" />
