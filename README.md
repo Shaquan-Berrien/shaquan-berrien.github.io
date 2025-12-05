@@ -27,3 +27,12 @@ To make it a little more interesting, I made mine in a way that makes it feels l
 
 I pulled a bunch of sprites off the internet from a Splatoon archive website and recolored the special and weapon icons, and when the composition was done, I added a final message congradulating you on the things you got!
 
+
+## AI: Doodle App
+<img width="730" height="539" alt="ai" src="https://github.com/user-attachments/assets/3118194a-403c-4029-b234-ae0517001dac" />
+
+This one, we made with a student that came in and showed us all how to make this one!
+
+I personally had a little trouble creating this, there was an issue with a code that me and my friends sitting next to me couldn't identify, but after fiddling a bit more with the code, we got it to work!
+
+And there is my beautigul picture of a puppy on the right side!
