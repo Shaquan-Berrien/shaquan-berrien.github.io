@@ -1,4 +1,5 @@
 # Programming Portfolio
-## Duck Guessing Game
-<img width="1918" height="700" alt="Screenshot 2025-10-27 142840" src="https://github.com/user-attachments/assets/3219a166-a71a-4c09-8c78-d825a5f48760" />
-A simple duck guessing game.
+## Duck Game
+<img width="700" height="500" alt="duck game pic" src="https://github.com/user-attachments/assets/97b46514-dab3-4402-b8ce-31318afcbde3" />
+This is a screenshot of a duck guessing game that we worked on in class! It requests a number guess and it will return a response on your guesses acurracy and display the number of ducks that were there!
+I added a yellow background and changed the text to something I though would be a bit more fitting for a game like this, and I created my own duck picture!
