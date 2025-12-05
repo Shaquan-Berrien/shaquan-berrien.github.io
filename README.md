@@ -35,4 +35,16 @@ This one, we made with a student that came in and showed us all how to make this
 
 I personally had a little trouble creating this, there was an issue with a code that me and my friends sitting next to me couldn't identify, but after fiddling a bit more with the code, we got it to work!
 
-And there is my beautigul picture of a puppy on the right side!
+And there is my beautiful picture of a puppy on the right side!
+
+# Project
+
+## Project 2: Algorithms in Game Design
+
+Out of all the projects we had to complete in this class, project 1 was by far my favorite. I created this project using Twine!
+
+Project 1 was about the use of algorithms in our career field and considering how it can be an issue from both sides of the consumer and developer!
+
+In opposed to just making it as an informational piece, I made it in the form of a conversation between the project and the reader!
+
+Finding research for this project was the hardest part, but after that, I just typed it all out in one whim! You can click here to go see it for yourself! [Project 1](https://twinery.org/2/#/stories/b425d88c-3861-46f3-8590-721a77fc5125/play)
